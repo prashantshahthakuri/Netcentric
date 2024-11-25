@@ -1,0 +1,7 @@
+D:\DotNet\Netcentric\swapValue\swapValue\bin\Debug\swapValue.exe.config
+D:\DotNet\Netcentric\swapValue\swapValue\bin\Debug\swapValue.exe
+D:\DotNet\Netcentric\swapValue\swapValue\bin\Debug\swapValue.pdb
+D:\DotNet\Netcentric\swapValue\swapValue\obj\Debug\swapValue.csproj.AssemblyReference.cache
+D:\DotNet\Netcentric\swapValue\swapValue\obj\Debug\swapValue.csproj.CoreCompileInputs.cache
+D:\DotNet\Netcentric\swapValue\swapValue\obj\Debug\swapValue.exe
+D:\DotNet\Netcentric\swapValue\swapValue\obj\Debug\swapValue.pdb
