@@ -1,0 +1,11 @@
+D:\DotNet\Netcentric\DesktopCalculator\DesktopCalculator\bin\Debug\DesktopCalculator.exe.config
+D:\DotNet\Netcentric\DesktopCalculator\DesktopCalculator\bin\Debug\DesktopCalculator.exe
+D:\DotNet\Netcentric\DesktopCalculator\DesktopCalculator\bin\Debug\DesktopCalculator.pdb
+D:\DotNet\Netcentric\DesktopCalculator\DesktopCalculator\obj\Debug\DesktopCalculator.csproj.AssemblyReference.cache
+D:\DotNet\Netcentric\DesktopCalculator\DesktopCalculator\obj\Debug\DesktopCalculator.Form1.resources
+D:\DotNet\Netcentric\DesktopCalculator\DesktopCalculator\obj\Debug\DesktopCalculator.Properties.Resources.resources
+D:\DotNet\Netcentric\DesktopCalculator\DesktopCalculator\obj\Debug\DesktopCalculator.Result.resources
+D:\DotNet\Netcentric\DesktopCalculator\DesktopCalculator\obj\Debug\DesktopCalculator.csproj.GenerateResource.cache
+D:\DotNet\Netcentric\DesktopCalculator\DesktopCalculator\obj\Debug\DesktopCalculator.csproj.CoreCompileInputs.cache
+D:\DotNet\Netcentric\DesktopCalculator\DesktopCalculator\obj\Debug\DesktopCalculator.exe
+D:\DotNet\Netcentric\DesktopCalculator\DesktopCalculator\obj\Debug\DesktopCalculator.pdb
